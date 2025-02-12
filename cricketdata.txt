@@ -1,0 +1,18 @@
+https://cricketdata.org/
+1,https://api.cricapi.com/v1/matches?apikey=05ac5c93-bab0-4e16-bb44-40c48e886227&offset=0
+
+
+2,https://api.cricapi.com/v1/currentMatches?apikey=05ac5c93-bab0-4e16-bb44-40c48e886227&offset=0
+
+"hasSquad": true only comes
+
+3,https://api.cricapi.com/v1/cricScore?apikey=05ac5c93-bab0-4e16-bb44-40c48e886227
+11:45 AM
+
+4,https://api.cricapi.com/v1/series
+
+5,https://api.cricapi.com/v1/series_info?apikey=05ac5c93-bab0-4e16-bb44-40c48e886227&offset=0&id=bf12ec10-a6e7-43b1-8cf6-6e2fcb4321f9
+series id
+
+6,https://api.cricapi.com/v1/match_info?apikey=05ac5c93-bab0-4e16-bb44-40c48e886227&offset=0&id=1c233415-6264-485d-82bb-c18d10345f71
+match id
